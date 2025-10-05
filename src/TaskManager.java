@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -45,3 +46,9 @@ public class TaskManager {
         return false;
     }
 }
+=======
+package PACKAGE_NAME;
+
+public class TaskManager {
+}
+>>>>>>> 372a2a4a95f115a8f099b326565532ca6e549a0f

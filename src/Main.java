@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 import java.util.Scanner;
@@ -110,3 +111,9 @@ public class Main {
         }
     }
 }
+=======
+package PACKAGE_NAME;
+
+public class Main {
+}
+>>>>>>> 372a2a4a95f115a8f099b326565532ca6e549a0f

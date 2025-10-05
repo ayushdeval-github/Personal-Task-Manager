@@ -26,6 +26,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 
 *.class
@@ -37,3 +38,6 @@ target/
 .project
 __pycache__/
 *.pyc
+=======
+.DS_Store
+>>>>>>> 372a2a4a95f115a8f099b326565532ca6e549a0f
